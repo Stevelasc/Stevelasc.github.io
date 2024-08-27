@@ -1,0 +1,41 @@
+head{
+    background-color: black;
+    border: 20cm;
+}
+
+body{
+    background-color: rgb(145, 145, 145);
+    border: 10px solid black;
+    border-radius: 1%;
+}
+
+h1{
+    color: rgb(108, 110, 128);
+    background: black;
+    position:static;
+    text-align:left;
+    text-shadow: 1px 1px 0.5px black;
+
+}
+
+
+img{
+    display: block;
+    margin: 0 auto;
+
+}
+
+.mi{
+    text-align: center;
+
+}
+
+h2{
+    text-align: justify;
+
+}
+button{
+    background-color: darkgrey;
+
+}
+
